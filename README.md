@@ -9,3 +9,5 @@ This application enables users to take various quizzes and track their progress 
 ## Deployement Link:
 https://appli-7612c.web.app
 
+## Report :
+For a brief overview of the project view the pdf file of the report in the repository.
