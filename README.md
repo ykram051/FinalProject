@@ -1,24 +1,6 @@
 # QUIZZ PLATFORM
 
-## Project setup
-```
-npm install
-```
+This application enables users to take various quizzes and track their progress thus enhancing the learning experience. This project is developed using vue js and firebase.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## This is the final project for the course of specialesed platform development.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
