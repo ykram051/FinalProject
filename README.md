@@ -1,4 +1,4 @@
-# forumapp
+# QUIZZ PLATFORM
 
 ## Project setup
 ```
