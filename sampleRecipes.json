@@ -1,0 +1,131 @@
+[
+  {
+    "nom": "Saumon Rôti aux Asperges Rôties",
+    "description": "Un plat délicieux et nutritif, facile à préparer",
+    "ingredients": [
+      {
+        "nom": "Filets de saumon",
+        "quantité": 450,
+        "unité": "g"
+      },
+      {
+        "nom": "Asperges vertes",
+        "quantité": 250,
+        "unité": "g"
+      },
+      {
+        "nom": "Huile d'olive",
+        "quantité": "2 cuillères à soupe",
+        "unité": ""
+      },
+      {
+        "nom": "Sel et poivre",
+        "quantité": "au goût",
+        "unité": ""
+      },
+      {
+        "nom": "Citron, en jus",
+        "quantité": "1/2",
+        "unité": "unité"
+      }
+    ],
+    "instructions": [
+      "Préchauffer le four à 200°C.",
+      "Sécher les filets de saumon avec du papier absorbant et les assaisonner de sel, de poivre et d'herbes fraîches (facultatif).",
+      "Disposer les filets de saumon sur une plaque de cuisson tapissée de papier sulfurisé.",
+      "Laver et sécher les asperges vertes.",
+      "Couper les extrémités dures des asperges et les enrober d'huile d'olive.",
+      "Disposer les asperges autour des filets de saumon.",
+      "Enfourner pendant 15-20 minutes, ou jusqu'à ce que le saumon soit bien cuit.",
+      "Servir avec une touche de jus de citron."
+    ],
+    "tempsPreparation": "10 minutes",
+    "tempsCuisson": "15-20 minutes",
+    "niveauDifficulte": "Facile",
+    "auteur": "Chef Martin",
+    "image": "url_de_l'image_du_repas",
+    "typeDeRegime": [
+      "Pescétarien",
+      "Sans gluten"
+    ],
+    "categorie": [
+      "Plat Principal"
+    ],
+    "popularite": 4.5,
+    "dateAjout": {
+      "_delegate": {
+        "_methodName": "FieldValue.serverTimestamp"
+      }
+    }
+  },
+  {
+    "nom": "Pancakes Véganes à la Banane",
+    "description": "Pancakes moelleux sans produits d'origine animale",
+    "ingredients": [
+      {
+        "nom": "Farine",
+        "quantité": 200,
+        "unité": "g"
+      },
+      {
+        "nom": "Lait d'amande",
+        "quantité": 250,
+        "unité": "ml"
+      },
+      {
+        "nom": "Banane mûre",
+        "quantité": "2",
+        "unité": "unité"
+      },
+      {
+        "nom": "Bicarbonate de soude",
+        "quantité": "1 cuillère à café",
+        "unité": ""
+      },
+      {
+        "nom": "Vinaigre de cidre",
+        "quantité": "1 cuillère à soupe",
+        "unité": ""
+      },
+      {
+        "nom": "Extrait de vanille",
+        "quantité": "1 cuillère à café",
+        "unité": ""
+      },
+      {
+        "nom": "Sel",
+        "quantité": "1/4 cuillère à café",
+        "unité": ""
+      }
+    ],
+    "instructions": [
+      "Dans un grand bol, écraser les bananes jusqu'à obtenir une purée lisse.",
+      "Ajouter le lait d'amande et l'extrait de vanille, puis bien mélanger.",
+      "Dans un autre bol, mélanger la farine, le bicarbonate de soude et le sel.",
+      "Incorporer les ingrédients secs aux ingrédients humides jusqu'à obtention d'une pâte homogène.",
+      "Ajouter le vinaigre de cidre et mélanger rapidement (cela aidera à rendre les pancakes moelleux).",
+      "Chauffer une poêle légèrement huilée à feu moyen.",
+      "Verser des petites quantités de pâte dans la poêle pour former des pancakes.",
+      "Cuire chaque pancake jusqu'à ce que des bulles se forment à la surface, puis retourner et cuire l'autre côté jusqu'à ce qu'il soit doré.",
+      "Servir chaud avec des fruits frais ou du sirop d'érable."
+    ],
+    "tempsPreparation": "10 minutes",
+    "tempsCuisson": "15 minutes",
+    "niveauDifficulte": "Facile",
+    "auteur": "Chef Emma",
+    "image": "url_de_l'image_du_repas",
+    "typeDeRegime": [
+      "Végétalien",
+      "Sans gluten"
+    ],
+    "categorie": [
+      "Petit-Déjeuner"
+    ],
+    "popularite": 4.8,
+    "dateAjout": {
+      "_delegate": {
+        "_methodName": "FieldValue.serverTimestamp"
+      }
+    }
+  }
+]

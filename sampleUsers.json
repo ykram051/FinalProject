@@ -1,0 +1,16 @@
+{
+  "userID_1": {
+    "email": "utilisateur1@example.com",
+    "username": "utilisateur1",
+    "fullName": "Utilisateur Un",
+    "photoURL": "url_de_la_photo_de_profil",
+    "isAdmin": true
+  },
+  "userID_2": {
+    "email": "utilisateur2@example.com",
+    "username": "utilisateur2",
+    "fullName": "Utilisateur Deux",
+    "photoURL": "url_de_la_photo_de_profil",
+    "isAdmin": false
+  }
+}
