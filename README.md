@@ -2,7 +2,7 @@
 
 This application enables users to take various quizzes and track their progress thus enhancing the learning experience. This project is developed using vue js and firebase.
 
-## Deployement Link:
+## Deployment Link:
 https://appli-7612c.web.app
 
 ## Démo vidéo:
